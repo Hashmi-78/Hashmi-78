@@ -10,11 +10,11 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🌾 [Pakistan Food Price Early Warning System](https://github.com/Hashmi-78/pakistan-food-price-forecasting) | Forecasts wheat, rice and sugar prices in Punjab and flags price-shock risk 4 weeks ahead. Compares 4 models. [Live app](https://pakistan-food-price-forecasting-7tzcirbuaapp7czxd7t5wfg.streamlit.app/) | Python, Scikit-learn, XGBoost, Prophet, Streamlit |
-| 🎬 [IMDB Sentiment Analysis](https://github.com/Hashmi-78/imdb-sentiment-analysis) | TF-IDF + Logistic Regression on 50K reviews (90.6%), with error analysis of sarcasm, label noise and a feature leak | Python, Scikit-learn, NLP |
-| 🛍️ [Ahyera Store (FYP)](https://github.com/Hashmi-78/FYP) | Multi-vendor e-commerce with LLM price negotiation and image-based product search | Django, Groq (Llama), Tailwind |
-| 🌲 [Forest Fire Weather Index Predictor](https://github.com/Hashmi-78/forestfiretest) | End-to-end ML web app predicting the Fire Weather Index, with CI/CD deployment | Flask, Scikit-learn |
-| 🛒 [Grocery Promotion Analysis](https://github.com/Hashmi-78/grocery-promo-analysis) | Does promotion actually lift sales? SQL analysis of 2.6M grocery transactions | MySQL, Pandas |
+|[Pakistan Food Price Early Warning System](https://github.com/Hashmi-78/pakistan-food-price-forecasting) | Forecasts wheat, rice and sugar prices in Punjab and flags price-shock risk 4 weeks ahead. Compares 4 models. [Live app](https://pakistan-food-price-forecasting-7tzcirbuaapp7czxd7t5wfg.streamlit.app/) | Python, Scikit-learn, XGBoost, Prophet, Streamlit |
+|[IMDB Sentiment Analysis](https://github.com/Hashmi-78/imdb-sentiment-analysis) | TF-IDF + Logistic Regression on 50K reviews (90.6%), with error analysis of sarcasm, label noise and a feature leak | Python, Scikit-learn, NLP |
+|[Ahyera Store (FYP)](https://github.com/Hashmi-78/FYP) | Multi-vendor e-commerce with LLM price negotiation and image-based product search | Django, Groq (Llama), Tailwind |
+|[Forest Fire Weather Index Predictor](https://github.com/Hashmi-78/forestfiretest) | End-to-end ML web app predicting the Fire Weather Index, with CI/CD deployment | Flask, Scikit-learn |
+|[Grocery Promotion Analysis](https://github.com/Hashmi-78/grocery-promo-analysis) | Does promotion actually lift sales? SQL analysis of 2.6M grocery transactions | MySQL, Pandas |
 
 ---
 
