@@ -10,6 +10,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+|[CFPB Complaint Routing & Trend Detection](https://github.com/Hashmi-78/cfpb-complaint-routing) | Routes consumer complaints to 9 product teams with a fine-tuned DistilRoBERTa (0.791 macro-F1, 60% auto-routed at 95%+ accuracy) and flags complaint spikes on live CFPB data (86% recall on 3× spikes, under 1% false alarms) | Python, PyTorch, Hugging Face Transformers, Scikit-learn |
 |[Pakistan Food Price Early Warning System](https://github.com/Hashmi-78/pakistan-food-price-forecasting) | Forecasts wheat, rice and sugar prices in Punjab and flags price-shock risk 4 weeks ahead. Compares 4 models. [Live app](https://pakistan-food-price-forecasting-7tzcirbuaapp7czxd7t5wfg.streamlit.app/) | Python, Scikit-learn, XGBoost, Prophet, Streamlit |
 |[IMDB Sentiment Analysis](https://github.com/Hashmi-78/imdb-sentiment-analysis) | TF-IDF + Logistic Regression on 50K reviews (90.6%), with error analysis of sarcasm, label noise and a feature leak | Python, Scikit-learn, NLP |
 |[Ahyera Store (FYP)](https://github.com/Hashmi-78/FYP) | Multi-vendor e-commerce with LLM price negotiation and image-based product search | Django, Groq (Llama), Tailwind |
